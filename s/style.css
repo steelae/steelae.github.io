@@ -14,9 +14,9 @@ html {
 
 
 body {
-  color: #fff;
-  font-size: 20px;
-  font-family: sans-serif;
+  color: rgb(247, 70, 0);
+  font-size: 40px;
+  font-family: Fantasy;
   background-image: url(../img/se.jpg);
   background-size: cover;
   background-position: center top;
